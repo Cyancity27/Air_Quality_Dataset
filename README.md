@@ -46,10 +46,3 @@ The dataset contains 36,192 records with 6 columns. Below is a detailed descript
 | 2017-11-07 15:00:00 | 2017 | 11    | 7   | 15   | 109.66 |
 | 2017-11-07 16:00:00 | 2017 | 11    | 7   | 16   | 116.50 |
 
----
-
-## Notes
-1. The PM2.5 concentration values are real-time monitoring results and may be influenced by short-term pollution sources or weather conditions.
-2. If used for model training, consider incorporating additional environmental factors (e.g., temperature, humidity) to improve predictive accuracy.
-
----
