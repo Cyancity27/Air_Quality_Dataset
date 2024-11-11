@@ -53,6 +53,3 @@ The dataset contains 36,192 records with 6 columns. Below is a detailed descript
 2. If used for model training, consider incorporating additional environmental factors (e.g., temperature, humidity) to improve predictive accuracy.
 
 ---
-
-## Contact Information
-For further assistance or feedback, please contact the data provider.
